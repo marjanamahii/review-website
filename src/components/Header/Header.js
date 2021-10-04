@@ -2,7 +2,7 @@ import React from 'react';
 import './Header.css';
 import logo from '../../images/logo.png'
 import { Link } from 'react-router-dom';
-import { Container, Nav, Navbar, NavbarBrand } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 
 const Header = () => {
     return (
@@ -21,10 +21,7 @@ const Header = () => {
                         <Link to="/test">Test takers</Link>
                     </Nav>
                 </Container>
-
             </Navbar>
-
-
 
         </div>
     );

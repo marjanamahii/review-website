@@ -1,7 +1,8 @@
 import React from 'react';
+import { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
-import { useEffect, useState } from 'react/cjs/react.development';
 import Homes from '../Homes/Homes';
+
 
 const Home = (props) => {
     const [homes, setHomes] = useState([]);
@@ -9,7 +10,7 @@ const Home = (props) => {
         fetch('./homeData.JSON')
             .then(res => res.json())
             .then(data => setHomes(data));
-    }, []);
+    }, [])
     return (
         <div>
             <Row xs={1} md={2} className="g-4">
@@ -19,10 +20,8 @@ const Home = (props) => {
                         home={home}
                     ></Homes>)
                 }
-            </Row >
+            </Row>
         </div>
-
-
 
     );
 };

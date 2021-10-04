@@ -10,7 +10,7 @@ const Services = () => {
         fetch('./data.JSON')
             .then(res => res.json())
             .then(data => setServices(data));
-    }, [])
+    }, []);
     return (
         <div>
             <Row xs={1} md={2} className="g-4">

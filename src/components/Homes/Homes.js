@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-
 const Homes = (props) => {
     const { title, description, price, img } = props.home
-
     return (
         <div>
             <Col>
@@ -18,7 +16,6 @@ const Homes = (props) => {
                     </Card.Body>
                 </Card>
             </Col>
-
         </div>
     );
 };
