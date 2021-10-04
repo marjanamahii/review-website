@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Digital Marketing
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About this site
 
-In the project directory, you can run:
+In this site you can know all about Digital Marketing.
 
-### `npm start`
+### How can Help you this site
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+We are a full-service digital agency with offices in New York, Belgrade and Kosovska Mitrovica. Our vision is to create the best online performance for all of our clients. Our mission is to transform the digital presence of small businesses and find the best strategy to be online.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### There are so many services
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Is this option,you can know how marketing helps you for online earning, digital marketplace job, and skill.We are providing you best service of any other.
 
-### `npm run build`
+### WEB DEVELOPMENT
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Web development focused on your business objectives.Your website is an essential component of your business and marketing strategy. It’s an online segment of your brand and provides a virtual presentation of your business for all visitors.We build mobile-friendly websites, allowing our clients to be present across all devices while retaining complete functionality and aesthetics.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### SEO
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ SEO focused on your business objectives.When it comes down to marketing, there is absolutely nothing that gives better results or affects ROI more than SEO. And we at W3 Lab do SEO only in the way that makes results speak for themselves.Your website works for you 24/7, 365 days a year. In many senses it’s the perfect employee. When your SEO is done “the right way”, it drives leads and makes sales for you all day long. Investing in SEO should be the next natural step for anyone looking to improve their revenue online.
