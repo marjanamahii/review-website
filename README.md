@@ -1,10 +1,11 @@
 # Digital Marketing
 
-This project was bootstrapped with [Live site](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About this site
 
 In this site you can know all about Digital Marketing.
+here is my live site link (https://dazzling-wing-b7ae5f.netlify.app/).
 
 ### How can Help you this site
 
